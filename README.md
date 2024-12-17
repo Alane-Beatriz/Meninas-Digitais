@@ -1,4 +1,5 @@
 # Meninas-Digitais
+Link do site:https://alane-beatriz.github.io/Meninas-Digitais/
 
 # meuPrimeiroProjetoHTML
 #Projeto Meninas Digitais com o objetivo de preparar meninas para competições de informática 
@@ -25,7 +26,7 @@ para diversas disciplinas e estimulando o raciocínio lógico e a capacidade de 
 facilitam a compreensão de conceitos complexos, mas também são cruciais para o desenvolvimento de soluções inovadoras em um mundo cada
 
 vez mais digital.
-
+protótipo site:https://www.canva.com/design/DAGUU0jQM4A/6jlQqO2BL0uzUgrBmM4QhQ/edit
 Feito:
 °Post de apresentação 
 °Instagram 
